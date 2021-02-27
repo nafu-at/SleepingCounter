@@ -1,0 +1,7 @@
+name: SleepingCounter
+version: @version@
+main: page.nafuchoco.sleepingcounter.SleepingCounter
+api-version: 1.15
+authors: [ NAFU_at ]
+description: Count the number of players in the bed.
+website: https://toybox.nafuchoco.page/
